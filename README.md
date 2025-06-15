@@ -1,5 +1,5 @@
 # Steel Power Usage Explorer
-# Steel Power Usage 🔌⚡
+# Steel Power Usage
 
 Small FastAPI + React app for exploring the **Steel Industry Energy Consumption** dataset.
 
@@ -13,7 +13,7 @@ Small FastAPI + React app for exploring the **Steel Industry Energy Consumption*
 Filters are optional & combinable, so you can answer questions like:
 
 * What was the average active power for the full dataset? 
-* MWhat was the minimum Maximum_Load kWh usage?  
+* What was the minimum Maximum_Load kWh usage?  
 * What was the daily average from March to May 2018?  
 * What was the maximum consumption on Mondays in October 2018?  
 * What was the weekend usage in September 2018?
@@ -30,7 +30,7 @@ Filters are optional & combinable, so you can answer questions like:
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/JLWally/steel-power-usage)
 cd steel-power-usage
 
 # ---- Backend ----
