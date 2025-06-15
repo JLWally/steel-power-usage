@@ -1,5 +1,4 @@
 # Steel Power Usage Explorer
-# Steel Power Usage
 
 Small FastAPI + React app for exploring the **Steel Industry Energy Consumption** dataset.
 
